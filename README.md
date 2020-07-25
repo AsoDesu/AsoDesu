@@ -1,6 +1,8 @@
-# Hi
+# Ello
 
-### I don't know what im doing but it seems to be working
+### Javascript developer, doesn't know what he's doing, and attempting to learn C# 
+
+#### Aso#0001
 
 [Twitch](https://twitch.tv/asovr)
 
