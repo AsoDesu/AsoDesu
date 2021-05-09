@@ -8,6 +8,4 @@
 
 [YouTube](https://www.youtube.com/channel/UC8-WzCWvZJMYRuuTcChzjJw)
 
-[Join the NOPE Clan](https://discord.gg/xH7AGnGXkf)
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S33TC0C)
