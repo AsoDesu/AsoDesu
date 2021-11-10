@@ -1,6 +1,6 @@
 # Ello
 
-### Javascript/Typescript developer, doesn't know what he's doing, and attempting to learn C# 
+### Typescript/Java developer, doesn't know what he's doing
 
 #### Discord: Aso#0001
 
