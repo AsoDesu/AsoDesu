@@ -1,6 +1,6 @@
 # Ello
 
-### Typescript/Java developer, doesn't know what he's doing
+### Typescript/Java developer, doesn't know what she's doing
 
 #### Discord: Aso#0001
 
