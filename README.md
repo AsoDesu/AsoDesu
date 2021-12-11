@@ -2,7 +2,7 @@
 
 ### Typescript/Java developer, doesn't know what she's doing
 
-#### Discord: Aso#0001
+#### Discord: Aso#1357
 
 [Twitch](https://twitch.tv/asodesu_)
 
