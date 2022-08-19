@@ -1,11 +1,20 @@
-# Ello
+## Hello! :wave:
 
-### Typescript/Java developer, doesn't know what she's doing
+Hi, I'm Aso, i code Backend things and Minecraft mods/plugins!
 
-#### Discord: Aso#1357
+[Follow me on Twitter!](https://twitter.com/AsoDesu_)
 
-[Twitch](https://twitch.tv/asodesu_)
+### Projects:
+- [BlockWars](https://github.com/BlockWarsMC)
+- [MCC: The Show](https://github.com/mccshow)
+- [Below Bedrock](https://github.com/BelowBedrock)
+- [Ington](https://github.com/ingtoninternational)
+and many more!
 
-[YouTube](https://www.youtube.com/channel/UC8-WzCWvZJMYRuuTcChzjJw)
+---
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S33TC0C)
+```javascript
+while (true) {
+  code()
+}
+```
