@@ -2,7 +2,8 @@
 
 Hi, I'm Aso, i code Backend things and Minecraft mods/plugins!
 
-[Follow me on Twitter!](https://twitter.com/AsoDesu_)
+[Follow me on Twitter!](https://twitter.com/AsoDesu_)\
+[Buy me a coffe!](https://ko-fi.com/S6S33TC0C)
 
 ### Projects:
 - [BlockWars](https://github.com/BlockWarsMC)
